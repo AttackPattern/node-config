@@ -1,0 +1,20 @@
+{
+  "name": "@attackpattern/node-config",
+  "version": "0.1.0",
+  "description": "Simple hierarchy based configuration with encryption for secrets",
+  "main": "config.js",
+  "bin": {
+    "encrypt": "./encrypt.js",
+    "decrypt": "./decrypt.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AttackPattern/node-config.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AttackPattern/node-config/issues"
+  },
+  "homepage": "https://github.com/AttackPattern/node-config#readme"
+}
