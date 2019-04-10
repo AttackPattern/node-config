@@ -2,7 +2,7 @@
   "name": "@attackpattern/node-config",
   "version": "0.1.0",
   "description": "Simple hierarchy based configuration with encryption for secrets",
-  "main": "config.js",
+  "main": "index.js",
   "bin": {
     "encrypt": "./encrypt.js",
     "decrypt": "./decrypt.js"
