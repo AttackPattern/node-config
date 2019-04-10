@@ -1,6 +1,6 @@
 {
   "name": "@attackpattern/node-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple hierarchy based configuration with encryption for secrets",
   "main": "index.js",
   "bin": {
